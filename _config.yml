@@ -22,7 +22,7 @@ title: LC Capital
 #github_username:  lowercasecapital
 #email: lc@isawsome.com
 description: Welcome to LC Capital. This is where I share my thoughts on the S&P 500 Futures Market. 
-baseurl: "/TradingJournal/" # the subpath of your site, e.g. /blog
+baseurl: "/TradingJournal" # the subpath of your site, e.g. /blog
 url: "https://lowercasecapital.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 
@@ -52,4 +52,9 @@ permalink: /:collection/:year-:month-:day-:title:output_ext
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-# - templates/
+#- _templates/
+
+collections:
+  definitions:
+    output: true
+    
