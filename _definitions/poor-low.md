@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Poor Low
-description: "The story description text goes here"
 ---
 
 # Poor Low

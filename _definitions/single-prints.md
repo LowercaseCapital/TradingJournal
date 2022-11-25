@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Single Prints
-description: "The story description text goes here"
 ---
 
 # Single Prints
