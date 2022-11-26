@@ -7,8 +7,7 @@ permalink: /blog/
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.date | date: "%d" | plus:'0' }} {{ post.date | date: "%B %Y" }} - {{ post.title }}</a>
-    </li>
+      <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.date | date: "%d" | plus:'0' }} {{ post.date | date: "%B %Y" }} - {{ post.title }}</a></h3>
+      <p>{{ post.excerpt | markdownify  }}</p>
   {% endfor %}
 </ul>
