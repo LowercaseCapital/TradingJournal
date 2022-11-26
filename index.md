@@ -7,6 +7,6 @@ list_title: Latest Posts
 title: ''
 ---
 
-Weclome to my terrible site. Here you will find what are my personal notes about trading in the SP500 (ES) futures market. 
+Weclome to my terrible site. Here you will find what are my personal notes about trading in the S&P 500 (ES) futures market. 
 
 ![Featured](/assets/homefeature.png)
