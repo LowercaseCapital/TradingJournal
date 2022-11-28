@@ -1,20 +1,21 @@
 ---
 layout: post
 title:  "Morning Prep"
-date:   2022-11-28 08:00:00
+date:   2022-11-28 09:00:00
 categories: MorningPrep
 ---
 # TLDR
-News at 10:30a and during the Fed Speech could have an impact on volitality. It is best to let this play out without a position. Oppertunities will exist both before and after. Inventory is long so we are expecting a correction to to globex session at or near the open. As we noted last week, its okay to take profit too soon. These wins will add up and staying mentally focused will keep you in the game to catch a nice oppertunity to make your day. 
+After 1/2 a session on Friday the market is gap down. News at 10:30a and during the Fed Speech could have an impact on volitality. It is best to let this play out without a position. Oppertunities will exist both before and after. Inventory is long so we are expecting a correction to to globex session at or near the open. As we noted last week, its okay to take profit too soon. These wins will add up and staying mentally focused will keep you in the game to catch a nice oppertunity to make your day. 
 
 # Key Events Today
 - 1030 - [Dallas Fed Manufacturing Index Nov](https://tradingeconomics.com/united-states/dallas-fed-manufacturing-index)
 - 1130 - [6 Month Bill Auction](https://tradingeconomics.com/united-states/6-month-bill-yield)
 - 1130 - [3 Month Bill Auction](https://tradingeconomics.com/united-states/3-month-bill-yield)
 - 1200 - [Fed Williams Speech](https://tradingeconomics.com/united-states/interest-rate)
+- 1200 - [Fed Bullard Speech](https://tradingeconomics.com/united-states/interest-rate)
 
 # Globex Review
-- Inventory is 76% Long
+- Inventory is 100% Short
 - Questions
     - What is the market doing (structure)?
         - Pushing higher; if we can even call it that
