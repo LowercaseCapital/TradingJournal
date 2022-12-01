@@ -9,7 +9,7 @@ Incredible move up yesterday during and after Powell spoke. Globex held on to th
 
 
 # Notes
-- Overnight Inventory is 98% Short. But keep this is context given yesterdays price action.
+Overnight Inventory is 98% Short. But keep this is context given yesterdays price action.
 
 Yesterday's session saw an incredible move once Fed Chair Powell began speaking. What he said is not really important but its is safe to say we found a bid. Due to this, value yesterday is completely higher, We filled the single I single prints from Nov 28th and the gap from Nov 28th and proceeded to find our way into the gap from September 13th. This gap fills at 4104 so that is a level to watch. We closed the day having gone trend and left 3 sets of single prints in its wake. These we will carry forward (4044.25, 4008.75, 3970.75).
 
