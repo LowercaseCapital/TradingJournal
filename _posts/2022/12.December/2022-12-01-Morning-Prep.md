@@ -43,12 +43,14 @@ Globex is currently balance inside of the M price probe and the larger gap from 
 
 
 # Key Levels
+- 4208 - Major Overhead Resistance
 - 4108 - CW
-- 4103.75 - 9/13 Gap Fill
+- ~~4103.75 - 9/13 Gap Fill~~
 - 4093.5 - Nov 2022 High
 - 4044.25 - 11/30 L singles fill
 - 4008.75 - 11/30 J singles fill
 - 3970.75 - 11/30 I singles fill
+- 3608 - PW
 
 
 ​
