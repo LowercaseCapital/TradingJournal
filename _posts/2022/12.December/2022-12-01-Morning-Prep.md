@@ -18,29 +18,29 @@ Taking a step back we broke out of balance, however not the direction I expected
 Globex is currently balance inside of the M price probe and the larger gap from september. We hae additional data today including jobless claims, PMI  and a few Fed Speakers. We could see some volatility again
 
 # [Key Events Today](https://tradingeconomics.com/calendar)
-- 07:30:00 - Challenger Job Cuts (Nov)
-- 08:30:00 - Continuing Jobless Claims (19/Nov)    
-- 08:30:00 - Core PCE Price Index (MoM) (Oct)      
-- *08:30:00 - Initial Jobless Claims (26/Nov)*
-- 08:30:00 - Jobless Claims 4-week Average (26/Nov)
-- 08:30:00 - PCE Price Index (MoM) (Oct)
-- 08:30:00 - PCE Price Index (YoY) (Oct)
-- 08:30:00 - Personal Income (MoM) (Oct)
-- 08:30:00 - Personal Spending (MoM) (Oct)
-- *09:25:00 - Fed Logan Speech*
-- *09:30:00 - Fed Bowman Speech*
-- *09:45:00 - S&P Global Manufacturing PMI (Nov)*
-- 10:00:00 - ISM Manufacturing Employment (Nov)
-- 10:00:00 - ISM Manufacturing New Orders (Nov)
-- *10:00:00 - ISM Manufacturing PMI (Nov)*
-- 10:00:00 - ISM Manufacturing Prices (Nov)
-- 11:30:00 - 4-Week Bill Auction
-- 11:30:00 - 8-Week Bill Auction
-- *15:00:00 - Fed S. Barr Speech*
 
-
-
-
+| Time | Event | Impact | Estimate | Actual |
+| ---- | ----- | ------ | -------- | ------ |
+| 07:30:00 | Challenger Job Cuts (Nov) | low | 35.0 | 76.835 |
+| 08:30:00 | Continuing Jobless Claims (19/Nov) | low | 1573.0 | 1608.0 |
+| 08:30:00 | Core PCE Price Index (MoM) (Oct) | low | 0.3 | 0.2 |
+| 08:30:00 | Core PCE Price Index (YoY) (Oct) | low | 5.0 | 5.0 |
+| 08:30:00 | Initial Jobless Claims (26/Nov) | medium | 235.0 | 225.0 |
+| 08:30:00 | Jobless Claims 4-week Average (26/Nov) | low | 230.0 | 228.75 |
+| 08:30:00 | PCE Price Index (MoM) (Oct) | low | 0.3 | 0.3 |
+| 08:30:00 | PCE Price Index (YoY) (Oct) | low | 5.9 | 6.0 |
+| 08:30:00 | Personal Income (MoM) (Oct) | low | 0.4 | 0.7 |
+| 08:30:00 | Personal Spending (MoM) (Oct) | low | 0.8 | 0.8 |
+| 09:25:00 | Fed Logan Speech | medium | None |  |
+| 09:30:00 | Fed Bowman Speech | medium | None |  |
+| 09:45:00 | S&P Global Manufacturing PMI (Nov) | medium | 47.6 | 47.7 |
+| 10:00:00 | ISM Manufacturing Employment (Nov) | low | 49.1 | 48.4 |
+| 10:00:00 | ISM Manufacturing New Orders (Nov) | low | 49.5 | 47.2 |
+| 10:00:00 | ISM Manufacturing PMI (Nov) | medium | 49.8 | 49.0 |
+| 10:00:00 | ISM Manufacturing Prices (Nov) | low | 47.5 | 43.0 |
+| 11:30:00 | 4-Week Bill Auction | low | None | 3.95 |
+| 11:30:00 | 8-Week Bill Auction | low | None | 4.08 |
+| 15:00:00 | Fed S. Barr Speech | medium | None |  |
 
 # Key Levels
 - 4208 - Major Overhead Resistance
