@@ -43,8 +43,3 @@ Looking ahead into today there is nonfarm payrolls which could have an impact on
 - 4008.75 - 11/30 J singles fill
 - 3970.75 - 11/30 I singles fill
 - 3608 - PW
-
-
-​
-​
-​
