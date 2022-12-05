@@ -1,7 +1,8 @@
+<% tp.file.rename(tp.date.now()+ "-Trade Log") %>
 ---
 layout: post
 title:  "Trade Log"
-date:   2022-11-25 16:00:00
+date:   tp.date.now() 16:00:00
 categories: TradeLog
 ---
 # Trade Log
@@ -9,9 +10,10 @@ categories: TradeLog
 - Number of Trades: 
 - P/L: 
 
-| Trade | Direction | Entry | Exit | Comments | 
-| ----- | --------- | ----- | ---- | -------- |
-| 1     |           |       |      |          |
+| Trade | Quantity | Direction | Entry  | Exits       | Comments                | Result |
+| ----- | -------- | --------- | ------ | ---------- | ----------------------- | ------ |
+| 1     | 2        | Short     | 4055.5 | 4054, 4050 | Short -SD1. Target -SD2 | +7     |
+| 2     |          |           |        |            |                         |        |
 
 ## Detailed Trade Review
 
