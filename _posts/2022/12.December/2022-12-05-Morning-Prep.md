@@ -4,9 +4,6 @@ title:  "Morning Prep"
 date:   2022-12-05 08:00:00
 categories: MorningPrep
 ---
-# TLDR
-
-
 # Notes
 Overnight Inventory is 63% Short. 
 
