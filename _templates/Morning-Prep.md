@@ -1,5 +1,5 @@
+<% tp.file.rename(tp.date.now()+ "-Morning-Prep") %>
 ---
-<% tp.file.rename(tp.date.now()+ "- Morning Prep") %>
 layout: post
 title:  "Morning Prep"
 date:   <% tp.file.rename(tp.date.now()+ " 08:00:00") %> 

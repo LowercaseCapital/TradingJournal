@@ -33,9 +33,9 @@ Globex session was pretty condensed with an overall tight range. Currently we ar
 - 4108 - CW
 - ~~4103.75 - 9/13 Gap Fill~~
 - 4093.5 - Nov 2022 High
-- 4044.25 - 11/30 L singles fill
+- ~~4044.25 - 11/30 L singles fill~~
 - 4033 - ZG
-- 4008.75 - 11/30 J singles fill
+- ~~4008.75 - 11/30 J singles fill~~
 - 4003 - Vol trigger
 - 3970.75 - 11/30 I singles fill
 - 3608 - PW

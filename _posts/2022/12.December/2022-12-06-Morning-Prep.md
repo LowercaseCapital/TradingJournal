@@ -35,7 +35,7 @@ Today, not too much news on the horizon. The main data is Redbook at 8:55a. Lets
 - 4033 - ZG
 - ~~4008.75 - 11/30 J singles fill~~
 - 4003 - Vol trigger
-- 3970.75 - 11/30 I singles fill
+- ~~3970.75 - 11/30 I singles fill!~~
 - 3938.75 - Balance Low
 - 3608 - PW
 
