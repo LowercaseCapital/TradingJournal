@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Morning Prep"
-date:   2022-12-02 08:00:00
+date:   2022-12-02
 categories: MorningPrep
 ---
 # TLDR

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+  
+  
+  
+  {% assign thedate = '' %}
+  
+  {% for post in site.posts limit: 8 %}
+    {% if thedate != post.date %}
+        <hr>
+        <h2>{{ post.date | date: "%A, %B %e, %Y" }}</h2>
+        <h3 class="headline"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    
+       
+
+
+    {% elsif thedate == post.date %}
+        <h3 class="headline"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+ 
+    {% endif %}
+ 
+    {% assign thedate = post.date%}
+    
+    {% endfor %}
+    <hr>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+
+
+ 
