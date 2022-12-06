@@ -14,13 +14,14 @@ Globex session was fairly balanced and occurred entirely within yesterdays value
 Today, not too much news on the horizon. The main data is Redbook at 8:55a. Lets see how the market trades back in the balance area. As always let MGI be the guide. 
 
 # [Key Events Today](https://tradingeconomics.com/calendar)
-| Time | Event | Impact | Estimate | Actual |
-| ---- | ----- | ------ | -------- | ------ |
-| 19:00:00 | Total Vehicle Sales (Nov) | low | None |  |
-| 05:30:00 | LMI Logistics Managers Index Current (Nov) | low | None |  |
-| 08:30:00 | Exports (Oct) | low | 257.0 |  |
-| 08:55:00 | Redbook (YoY) (03/Dec) | low | None |  |
-| 08:55:00 | Redbook (YoY) (Dec/03) | low | None |  |
+
+| Time     | Event                                      | Impact | Estimate | Actual |
+|----------|--------------------------------------------|--------|----------|--------|
+| 19:00:00 | Total Vehicle Sales (Nov)                  | low    | None     |        |
+| 05:30:00 | LMI Logistics Managers Index Current (Nov) | low    | None     |        |
+| 08:30:00 | Exports (Oct)                              | low    | 257.0    |        |
+| 08:55:00 | Redbook (YoY) (03/Dec)                     | low    | None     |        |
+| 08:55:00 | Redbook (YoY) (Dec/03)                     | low    | None     |        |
 
 
 # Key Levels
