@@ -1,37 +1,43 @@
-<% tp.file.rename(tp.date.now()+ "-Morning-Prep") %>
 ---
 layout: post
 title:  "Morning Prep"
-date:   <% tp.file.rename(tp.date.now()+ " 08:00:00") %> 
+date:   <% tp.date.now()+ " 08:00:00" %> 
 categories: MorningPrep
+<% tp.file.rename(tp.date.now()+ "-Morning-Prep") %>
 ---
 
-# Morning Review Checklist
-## Key Events Today
-- 1030 - [Dallas Fed Manufacturing Index Nov](https://tradingeconomics.com/united-states/dallas-fed-manufacturing-index)
-- 1130 - [6 Month Bill Auction](https://tradingeconomics.com/united-states/6-month-bill-yield)
-- 1130 - [3 Month Bill Auction](https://tradingeconomics.com/united-states/3-month-bill-yield)
-- 1200 - [Fed Williams Speech](https://tradingeconomics.com/united-states/interest-rate)
+# Notes
+Overnight Inventory is 52% Short. 
 
-## Globex Review
-- Inventory is 76% Long
-- Questions
-    - What is the market doing (structure)?
-        - Pushing higher; if we can even call it that
-    - Who is trapped?
-        - Shorts (Poor Low)
-    - Who is in the Market?
-        - No One. The range is abysmisal 
-    - What is the market trying to do?
-        - Almost Nothing
-    - How well is it doing it?
-        - Doing nothing really well
+Yesterday proved to be an interesting. After previously breaking out of balance with what seemed to be incredible strength, ES quickly found some supply to reject higher prices. After a lack luster couple of days we find ourselves firmly back into the balance zone. AS such we can continue using the balance area as key levels 4042.50 - 3938.75. Yesterday, we also filled two sets of single prints from November 30th, L and J periods so we can remove these from our key levels. Notably we still have 1 set from this day wh ich will fill at 3970.75. Look for this level in the upcoming days. 
 
-## Key Levels
-4038 - Last Weeks High
-4000
-3966 - Zero Gamma
-3953 - Vol Trigger
-​
-​
-​
+Globex session was fairly balanced and occurred entirely within yesterdays value area. A poor high was left in W which could indicate are area of supply. Keep this is mind as the market opens. 
+
+Today, not too much news on the horizon. The main data is Redbook at 8:55a. Lets see how the market trades back in the balance area. As always let MGI be the guide. 
+
+# [Key Events Today](https://tradingeconomics.com/calendar)
+
+| Time     | Event                                      | Impact | Estimate | Actual |
+|----------|--------------------------------------------|--------|----------|--------|
+| 19:00:00 | Total Vehicle Sales (Nov)                  | low    | None     |        |
+| 05:30:00 | LMI Logistics Managers Index Current (Nov) | low    | None     |        |
+| 08:30:00 | Exports (Oct)                              | low    | 257.0    |        |
+| 08:55:00 | Redbook (YoY) (03/Dec)                     | low    | None     |        |
+| 08:55:00 | Redbook (YoY) (Dec/03)                     | low    | None     |        |
+
+
+# Key Levels
+- 4208 - Major Overhead Resistance
+- 4110 - 12/1 high
+- 4108 - CW
+- ~~4103.75 - 9/13 Gap Fill~~
+- 4093.5 - Nov 2022 High
+- ~~4044.25 - 11/30 L singles fill~~
+- 4042.50 - Balance High 
+- 4033 - ZG
+- ~~4008.75 - 11/30 J singles fill~~
+- 4003 - Vol trigger
+- ~~3970.75 - 11/30 I singles fill!~~
+- 3938.75 - Balance Low
+- 3608 - PW
+
