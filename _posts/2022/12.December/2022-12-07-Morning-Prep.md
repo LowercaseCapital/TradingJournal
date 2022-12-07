@@ -5,7 +5,7 @@ date:   2022-12-07 08:00:00
 categories: MorningPrep
 ---
 
-# # Notes
+# Notes
 Overnight Inventory is 61% Short. 
 
 Yesterday's trend day down was a slow and methodical grid. One time framing down the entire day until M period finally ended it. We took back all of the single prints from Nov 30th and left a set to carry forward from B period. This set will fill at 3976.5. Only a 6 wide point of control was established. This and the single prints that held indicate supply above. Look to see if that continues today and throughout the week. 
