@@ -3,7 +3,7 @@
 ---
 layout: post
 title:  "Trade Log"
-date:   <%tp.date.now()%> 16:00:00
+date:   <%tp.date.now()%>
 categories: TradeLog
 ---
 # Trade Log

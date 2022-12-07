@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Morning Prep"
-date:   <% tp.date.now()+ " 08:00:00" %> 
+date:   <% tp.date.now() %> 
 categories: MorningPrep
 <% tp.file.rename(tp.date.now()+ "-Morning-Prep") %>
 ---

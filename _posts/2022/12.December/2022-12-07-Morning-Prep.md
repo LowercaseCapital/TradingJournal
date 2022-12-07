@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Morning Prep"
-date:   2022-12-07 08:00:00 
+date:   2022-12-07
 categories: MorningPrep
 ---
 
@@ -19,7 +19,7 @@ Overall I still remain short biased, but I do see some potential to correct inve
 # [Key Events Today](https://tradingeconomics.com/calendar)
 
 | Time | Event | Impact | Estimate | Actual |
-| ---- | ----- | ------ | -------- | ------ |
+| ---- | ----- | ------ | -------- | ----
 | 19:00:00 | Total Vehicle Sales (Nov) | low | None | 14.1 |
 | 07:00:00 | MBA 30-Year Mortgage Rate (02/Dec) | low | None |  |
 | 07:00:00 | MBA 30-Year Mortgage Rate (Dec/02) | low | None |  |
