@@ -9,11 +9,11 @@ categories: MorningPrep
 # Notes
 Overnight Inventory is 94% long
 
-After what started off as a slow day, ES went trend  in the final 3 periods KLM holding 2 sets of single prints and blowing throught the 4000 resistance that had established itself.  After repeated tests of the balance area low it seems that we are hading for another test of the blanace area high.
+After what started off as a slow day, ES went trend  in the final 3 periods KLM holding 2 sets of single prints and blowing through the 4000 resistance that had established itself.  After repeated tests of the balance area low it seems that we are hading for another test of the balance area high.
 
-The Globex sessions continued the acution that was limited by the market close and completed the push to the 4050s. As it currently stands, it appears we will open the day on a gap. That said, the final hour before the open this morning could be a wild one with CPI and Core Inflation numbers out. 
+The Globex sessions continued the auction that was limited by the market close, left a poor low and completed the push to the 4050s. As it currently stands, it appears we will open the day on a gap. That said, the final hour before the open this morning could be a wild one with CPI and Core Inflation numbers out. 
 
-In any event, my plan for today is to let the volitality play out and then see where we accept price. Above the balance high looks more likely at the moment but dont rule out a big move the other way. Until we have mroe info the balance area is my key areas. Above, below, and inside this area are all on the table. 
+In any event, my plan for today is to let the volatility play out and then see where we accept price. Above the balance high looks more likely at the moment but don't rule out a big move the other way. Until we have more info the balance area is my key areas. Above, below, and inside this area are all on the table. 
 
 
 ![trade7](../assets/2022-12-13-BalanceArea.png){:style="display:block; margin-left:auto; margin-right:auto"}
