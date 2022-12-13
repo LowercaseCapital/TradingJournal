@@ -16,7 +16,8 @@ The Globex sessions continued the acution that was limited by the market close a
 In any event, my plan for today is to let the volitality play out and then see where we accept price. Above the balance high looks more likely at the moment but dont rule out a big move the other way. Until we have mroe info the balance area is my key areas. Above, below, and inside this area are all on the table. 
 
 
-![[2022-12-13-BalanceArea.png]]
+![trade7](../assets/2022-12-13-BalanceArea.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
 
 
 # [Key Events Today](https://tradingeconomics.com/calendar)
