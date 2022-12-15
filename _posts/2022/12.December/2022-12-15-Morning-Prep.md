@@ -3,7 +3,6 @@ layout: post
 title:  "Morning Prep"
 date:   2022-12-15 
 categories: MorningPrep
-
 ---
 
 # Notes
