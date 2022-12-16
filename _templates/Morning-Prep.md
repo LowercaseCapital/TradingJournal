@@ -26,18 +26,3 @@ Today, not too much news on the horizon. The main data is Redbook at 8:55a. Lets
 | 08:55:00 | Redbook (YoY) (Dec/03)                     | low    | None     |        |
 
 
-# Key Levels
-- 4208 - Major Overhead Resistance
-- 4110 - 12/1 high
-- 4108 - CW
-- ~~4103.75 - 9/13 Gap Fill~~
-- 4093.5 - Nov 2022 High
-- ~~4044.25 - 11/30 L singles fill~~
-- 4042.50 - Balance High 
-- 4033 - ZG
-- ~~4008.75 - 11/30 J singles fill~~
-- 4003 - Vol trigger
-- ~~3970.75 - 11/30 I singles fill!~~
-- 3938.75 - Balance Low
-- 3608 - PW
-

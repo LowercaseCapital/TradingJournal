@@ -1,10 +1,9 @@
-]
-<% tp.file.rename(tp.date.now()+ "-Trade-Log") %>
 ---
 layout: post
 title:  "Trade Log"
 date:   <%tp.date.now()%>
 categories: TradeLog
+<% tp.file.rename(tp.date.now()+ "-Trade-Log") %>
 ---
 # Trade Log
 ## Summary
